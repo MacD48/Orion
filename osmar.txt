@@ -1,0 +1,1 @@
+This is a text document to verify my git versions
